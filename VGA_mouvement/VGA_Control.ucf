@@ -1,0 +1,25 @@
+# PlanAhead Generated physical constraints 
+
+
+
+NET "clk50" LOC = B8;
+
+NET "hsync" LOC = J14;
+
+NET "vsync" LOC = K13;
+
+NET "bout[1]" LOC = J3;
+
+NET "bout[0]" LOC = H13;
+
+NET "gout[2]" LOC = G14;
+
+NET "gout[1]" LOC = G13;
+
+NET "gout[0]" LOC = F14;
+
+NET "rout[2]" LOC = F13;
+
+NET "rout[1]" LOC = D13;
+
+NET "rout[0]" LOC = C14;
